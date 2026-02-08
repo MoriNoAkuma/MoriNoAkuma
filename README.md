@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🔭 I’m currently working on my own DayZ server
+🌱 I’m currently learning C++, Enfusion script, Python
 <!--
 **MoriNoAkuma/MoriNoAkuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
