@@ -38,3 +38,4 @@
 ### 📫 Contact
 
 Discord: `chort_lisoviy`
+Email: niefjodovyehor@gmail.com
