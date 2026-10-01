@@ -31,7 +31,7 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="[https://streak-stats.demolab.com?user=MoriNoAkuma&theme=tokyonight&hide_border=true](https://camo.githubusercontent.com/f2744622f818cd2896086256b31f75bcab6aa544416a4ec9cd1ac23f0c631635/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d4d6f72694e6f416b756d61267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565)" height="150" />
+  <img src="https://streak-stats.demolab.com?user=MoriNoAkuma&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoriNoAkuma&theme=tokyonight" height="150" />
 </p>
 
